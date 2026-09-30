@@ -26,3 +26,6 @@ Comparación de XGBoost, Random Forest y árbol de decisión.
 
 ### [Análisis de series de tiempo de ventas](https://github.com/mgabrielafiguera-pixel/sales-time-series-analysis)
 Tendencia y estacionariedad de ventas diarias como base para pronosticar demanda.
+
+## 📫 Contacto
+[LinkedIn](https://www.linkedin.com/in/mar%C3%ADa-gabriela-figuera-m-843830a5/)
