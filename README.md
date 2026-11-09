@@ -15,8 +15,8 @@ Combino el conocimiento del negocio (inventarios, compras, márgenes, migración
 
 ## ⭐ Proyectos destacados
 
-### [Dashboard contable de retail con datos de la SEC · Streamlit](https://github.com/mgabrielafiguera-pixel/salud-financiera-retail)
-¿Qué cadena convierte mejor su inventario en caja? Extraigo los 10-K de Walmart, Target, Costco, Best Buy y Dollar General desde la API de la SEC (2019–2025), calculo los ratios en SQL y los presento en un dashboard de 8 páginas: resumen ejecutivo, ingresos y gastos, cuentas por cobrar y por pagar, flujo de efectivo, estado de resultados y balance general. Hallazgo: Target opera con ciclo de caja negativo (−1,5 días) porque sus proveedores financian el inventario, mientras Costco lo logra vendiendo en 27,6 días.  
+### [Aplicación de análisis financiero de retail con datos de la SEC · Streamlit](https://github.com/mgabrielafiguera-pixel/salud-financiera-retail)
+¿Qué cadena convierte mejor su inventario en caja? Extraigo los 10-K de Walmart, Target, Costco, Best Buy y Dollar General desde la API de la SEC (2019–2025), calculo los ratios en SQL y los presento en una aplicación interactiva de 8 módulos: resumen ejecutivo, ingresos y gastos, cuentas por cobrar y por pagar, flujo de efectivo, estado de resultados y balance general. Hallazgo: Target opera con ciclo de caja negativo (−1,5 días) porque sus proveedores financian el inventario, mientras Costco lo logra vendiendo en 27,6 días.  
 Python · SQL (DuckDB) · Streamlit · Plotly · XBRL
 
 ### [Sell In / Sell Out en retail de lujo · Power BI](https://github.com/mgabrielafiguera-pixel/proyecto-bi-retail)
