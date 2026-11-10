@@ -16,7 +16,7 @@ Combino el conocimiento del negocio (inventarios, compras, márgenes, migración
 ## ⭐ Proyectos destacados
 
 ### [Fragrance Intelligence · BI de fragancias en retail de belleza · Streamlit](https://github.com/mgabrielafiguera-pixel/fragrance-intelligence)
-¿Qué le dicen 2 años de Sell In / Sell Out a la gerencia? App de 6 pantallas que genera sola un **Resumen gerencial** con alertas, podio de marcas y plan de acción. Hallazgos 2026: venta +17,8% y margen de 46,3% a 52,0% aun con la marca líder cayendo 23%; 37 de los 50 perfumes más vendidos sin stock antes de diciembre; el mismo SKU hasta 79% más caro según el proveedor. Proveedores anonimizados y controles de cuadre contra los totales contables.  
+¿Qué le dicen 2 años de Sell In / Sell Out a la gerencia? App de 6 pantallas que genera sola un **Resumen gerencial** con alertas, podio de marcas y plan de acción. Hallazgos 2026: venta +17,8% y margen de 46,3% a 52,0% aun con la marca líder cayendo 23%; 37 de los 50 perfumes más vendidos sin stock antes de diciembre; el mismo SKU hasta 79% más caro según la vía de abastecimiento. Proveedores anonimizados y controles de cuadre contra los totales contables.  
 Python · SQL (DuckDB) · R (Kruskal-Wallis, ETS) · Streamlit · Plotly · [**Demo en vivo**](https://fragrance-intelligence.streamlit.app)
 
 ### [Aplicación de análisis financiero de retail con datos de la SEC · Streamlit](https://github.com/mgabrielafiguera-pixel/salud-financiera-retail)
