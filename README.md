@@ -7,13 +7,17 @@ Combino el conocimiento del negocio (inventarios, compras, márgenes, migración
 📍 Venezuela · 🌐 **[Ver mi portafolio](https://mgabrielafiguera-pixel.github.io/proyecto-bi-retail/)**
 
 ## 🛠️ Stack
-- **Lenguajes:** Python · SQL
+- **Lenguajes:** Python · SQL · R
 - **Datos:** pandas · NumPy · DuckDB · Plotly · matplotlib · seaborn
 - **BI:** Power BI · DAX · Power Query
 - **Machine Learning:** scikit-learn · XGBoost · statsmodels · NLP
 - **Apps y despliegue:** Streamlit · Render · Git
 
 ## ⭐ Proyectos destacados
+
+### [Fragrance Intelligence · BI de fragancias en retail de belleza · Streamlit](https://github.com/mgabrielafiguera-pixel/fragrance-intelligence)
+¿Qué le dicen 2 años de Sell In / Sell Out a la gerencia? App de 6 pantallas que genera sola un **Resumen gerencial** con alertas, podio de marcas y plan de acción. Hallazgos 2026: venta +17,8% y margen de 46,3% a 52,0% aun con la marca líder cayendo 23%; 37 de los 50 perfumes más vendidos sin stock antes de diciembre; el mismo SKU hasta 79% más caro según el proveedor. Proveedores anonimizados y controles de cuadre contra los totales contables.  
+Python · SQL (DuckDB) · R (Kruskal-Wallis, ETS) · Streamlit · Plotly · [**Demo en vivo**](https://fragrance-intelligence.streamlit.app)
 
 ### [Aplicación de análisis financiero de retail con datos de la SEC · Streamlit](https://github.com/mgabrielafiguera-pixel/salud-financiera-retail)
 ¿Qué cadena convierte mejor su inventario en caja? Extraigo los 10-K de Walmart, Target, Costco, Best Buy y Dollar General desde la API de la SEC (2019–2025), calculo los ratios en SQL y los presento en una aplicación interactiva de 8 módulos: resumen ejecutivo, ingresos y gastos, cuentas por cobrar y por pagar, flujo de efectivo, estado de resultados y balance general. Hallazgo: Target opera con ciclo de caja negativo (−1,5 días) porque sus proveedores financian el inventario, mientras Costco lo logra vendiendo en 27,6 días.  
