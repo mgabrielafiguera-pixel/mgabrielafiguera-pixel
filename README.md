@@ -15,6 +15,10 @@ Combino el conocimiento del negocio (inventarios, compras, márgenes, migración
 
 ## ⭐ Proyectos destacados
 
+### [Venezuela Oil Intelligence · Petróleo venezolano 1990–2027 con datos públicos · Streamlit](https://github.com/mgabrielafiguera-pixel/venezuela-oil-intelligence)
+¿Qué pasó con el petróleo venezolano cuando el país dejó de publicar sus datos? Reconstruyo 36 años de comercio desde afuera, con lo que declaran sus compradores (UN Comtrade), y lo cruzo con producción (EIA) y precios (Banco Mundial, OPEP). Hallazgos: los compradores registraban el 59–74 % de la producción hasta 2018 y solo el 2 % en 2022, porque el petróleo dejó de ser trazable; hasta 2014 el valor exportado seguía al precio y desde 2015 al volumen. El pronóstico SARIMAX (error del 6,7 %) acertó la producción de octubre de 2026 con un 3 % de diferencia frente al dato de PDVSA y proyecta un 2027 más prudente que las metas oficiales. Dashboard de 5 páginas, con una dedicada a Perspectivas 2027.  
+Python · APIs REST · statsmodels · Plotly · Streamlit · [**Demo en vivo**](https://venezuela-oil-intelligence.streamlit.app)
+
 ### [Fragrance Intelligence · BI de fragancias en retail de belleza · Streamlit](https://github.com/mgabrielafiguera-pixel/fragrance-intelligence)
 ¿Qué le dicen 2 años de Sell In / Sell Out a la gerencia? App de 7 pantallas: un **Resumen gerencial** que escribe solo las alertas y el plan de acción, y un **Plan de compras 2027** por marca y por mes (1.321 unidades a comprar para vender ~2.333; 638 deben llegar antes de diciembre). Hallazgos 2026: venta +17,8% y margen de 46,3% a 52,0% aun con la marca líder cayendo 23%; 37 de los 50 perfumes más vendidos sin stock antes de diciembre; el mismo SKU hasta 79% más caro según la vía de abastecimiento. Proveedores anonimizados y controles de cuadre contra los totales contables.  
 Python · SQL (DuckDB) · R (Kruskal-Wallis, ETS) · Streamlit · Plotly · [**Demo en vivo**](https://fragrance-intelligence.streamlit.app)
